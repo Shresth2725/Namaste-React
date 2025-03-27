@@ -1,3 +1,6 @@
+import React from "react";
+import ReactDOM from "react-dom/client"; 
+
 /* 
     <div class = "parent">
         <div class = "child">
@@ -13,8 +16,9 @@ const parent = React.createElement(
     React.createElement(
         "div",
         { className: "child"},
-        [React.createElement("h1" , { className: "child"} , "Hello"),
-            React.createElement("h1" , { className: "child"} , "React")]
+        React.createElement("h1" , { className: "child"} , "Hello")
+            // React.createElement("h1" , { className: "child"} , "React")
+            
     )
 )
 
