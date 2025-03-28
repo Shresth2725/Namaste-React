@@ -23,3 +23,17 @@
 - Installing react and reactDOM without using CDN links. 
 - What does parcel(bundler) do.
 - Browerslist
+
+## Episode 3
+
+### Learned about:  
+- JSX is a syntax extension for JavaScript.
+- Making LocalHost using script.
+- JSX better then React.createElement().
+- Babel is a tranpilalor of javascript.
+- React Component 
+- react Component types 1) Functional Component
+                        2) Class based Component
+- How to add one react component into other and many more varities.
+- Component Composition
+- Cross Site Scripting
