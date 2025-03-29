@@ -1,0 +1,27 @@
+{
+  "name": "episode-5",
+  "version": "1.0.0",
+  "description": "React",
+  "keywords": [],
+  "homepage": "https://github.com/Shresth2725/Namaste-React#readme",
+  "bugs": {
+    "url": "https://github.com/Shresth2725/Namaste-React/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shresth2725/Namaste-React.git"
+  },
+  "license": "ISC",
+  "author": "Shresth",
+  "type": "commonjs",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "parcel": "^2.14.3",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {}
+}
